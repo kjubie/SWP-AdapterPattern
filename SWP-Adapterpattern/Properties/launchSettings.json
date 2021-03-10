@@ -1,0 +1,19 @@
+{
+  "profiles": {
+    "SWP-AdapterPattern": {
+      "commandName": "Project"
+    },
+    "ShortSword": {
+      "commandName": "Project",
+      "commandLineArgs": "Short"
+    },
+    "MediumSword (Legacy)": {
+      "commandName": "Project",
+      "commandLineArgs": "Medium"
+    },
+    "LongSword": {
+      "commandName": "Project",
+      "commandLineArgs": "Long"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWP-AdapterPattern", "SWP-AdapterPattern.csproj", "{B66F332D-F6DC-44D5-AA13-034C27D5AA90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B66F332D-F6DC-44D5-AA13-034C27D5AA90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B66F332D-F6DC-44D5-AA13-034C27D5AA90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B66F332D-F6DC-44D5-AA13-034C27D5AA90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B66F332D-F6DC-44D5-AA13-034C27D5AA90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {142BCB45-DD00-4959-9502-7E09DAB86330}
+	EndGlobalSection
+EndGlobal
